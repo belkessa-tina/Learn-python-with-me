@@ -47,14 +47,16 @@ def conversion(unit1: str, unit2: str, fact: float):
     print(f"conversion result: {valeur_float} {unit1} = {valeur_convertie} {unit2}")
     return False
 """
-1 inches = 2.54 cm
-1 cm = 0.394 inches
-
 Here is how the program is working
 1 - Ask the user weither is looking to convert "inches to cm" or "cm vers inches"
 2 - Ask the user to enter the value to convert with the unit 
 3 - display the value converted 
 - End of the program.
+
+
+1 inches = 2.54 cm
+1 cm = 0.394 inches
+
 """
 
 
